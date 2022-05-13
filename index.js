@@ -5,3 +5,7 @@ function doSomething(){
 function develop(){
     console.log("Im develop")
 }
+
+function testing(){
+    console.log("Testing");
+}
